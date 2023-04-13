@@ -10,6 +10,12 @@ body {
   font-family: sans-serif;
 }
 
+#words {
+  margin-top: 50px;
+  margin-left: 50px;
+  font-family: 'Franklin Gothic Medium';
+}
+
 a {
   text-decoration: none;
   color: #fff;
